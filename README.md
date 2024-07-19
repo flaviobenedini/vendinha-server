@@ -24,7 +24,7 @@
 
 ## Descrição
 
-Backend-API Para aplicação de controle de vendas fiado em um estabelecimento comercial
+Backend-API Para aplicação de controle de vendas fiado em um estabelecimento comercial. Foi usada a biblioteca de Componentes ANT Design.
 
 ### Requisitos
 - Node versão 18.16 ou maior
